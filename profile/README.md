@@ -1,0 +1,11 @@
+# Edu4Chip
+This is the collaboration platform for the project [Edu4Chip](https://www.ce.cit.tum.de/en/ce/forschung/gebiete/design-electronic-circuits-systems/edu4chip/)
+
+![Edu4Chip logo](./edu4chipV1light.png "Edu4Chip")
+
+
+
+
+## Disclaimer
+The project is funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Health and Digital Executive Agency (HADEA). Neither the European Union nor the granting authority can be held responsible for them.
+
